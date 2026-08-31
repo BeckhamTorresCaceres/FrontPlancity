@@ -46,7 +46,7 @@ Está construida con React, TypeScript y Vite. La interfaz usa Tailwind CSS y cu
 1. Clona el repositorio y entra en la carpeta.
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <https://github.com/BeckhamTorresCaceres/FrontPlancity>
    cd FrontPlancity
    ```
 
